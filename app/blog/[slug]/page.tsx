@@ -49,7 +49,6 @@ export default async function BlogPostPage({ params }: Props) {
 
   const contentHtml = await markdownToHtml(post.content)
 
-  // JSON-LD Article Schema
   const articleSchema = {
     '@context': 'https://schema.org',
     '@type': 'Article',
@@ -58,6 +57,7 @@ export default async function BlogPostPage({ params }: Props) {
     author: {
       '@type': 'Person',
       name: post.author,
+      url: post.authorSocial ? `https://instagram.com/${post.authorSocial.replace('@', '')}` : undefined,
     },
     datePublished: post.date,
     dateModified: post.lastModified || post.date,
@@ -66,7 +66,7 @@ export default async function BlogPostPage({ params }: Props) {
       name: 'Furry Finds',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://furryfinds.club/logo.png',
+        url: 'https://furryfinds.club/favicon.svg',
       },
     },
     mainEntityOfPage: {
@@ -82,7 +82,6 @@ export default async function BlogPostPage({ params }: Props) {
     keywords: post.keywords?.join(', ') || post.tags.join(', '),
   }
 
-  // Breadcrumb Schema
   const breadcrumbSchema = {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
@@ -96,6 +95,12 @@ export default async function BlogPostPage({ params }: Props) {
       {
         '@type': 'ListItem',
         position: 2,
+        name: 'Reviews',
+        item: 'https://furryfinds.club/blog/',
+      },
+      {
+        '@type': 'ListItem',
+        position: 3,
         name: post.title,
         item: `https://furryfinds.club/blog/${slug}/`,
       },
@@ -115,20 +120,33 @@ export default async function BlogPostPage({ params }: Props) {
 
       <article className="max-w-3xl mx-auto px-4 py-12">
         {/* Breadcrumbs */}
-        <nav className="text-sm text-gray-500 mb-6" aria-label="Breadcrumb">
+        <nav className="text-sm text-[#b2bec3] mb-6" aria-label="Breadcrumb">
           <ol className="flex items-center gap-2">
-            <li><a href="/" className="hover:text-primary">Home</a></li>
+            <li><a href="/" className="hover:text-[#2d6a4f]">Home</a></li>
             <li>/</li>
-            <li className="text-gray-800 font-medium">{post.title}</li>
+            <li><a href="/blog/" className="hover:text-[#2d6a4f]">Reviews</a></li>
+            <li>/</li>
+            <li className="text-[#636e72] font-medium">{post.title}</li>
           </ol>
         </nav>
 
+        {/* Cover Image */}
+        {post.coverImage && (
+          <div className="mb-8 rounded-2xl overflow-hidden shadow-soft">
+            <img
+              src={post.coverImage}
+              alt={post.title}
+              className="w-full h-64 object-cover"
+            />
+          </div>
+        )}
+
         {/* Header */}
         <header className="mb-8">
-          <h1 className="text-3xl md:text-4xl font-extrabold text-dark tracking-tight mb-4">
+          <h1 className="text-3xl md:text-4xl font-extrabold text-[#2d3436] tracking-tight mb-4">
             {post.title}
           </h1>
-          <div className="flex items-center gap-4 text-sm text-gray-500">
+          <div className="flex flex-wrap items-center gap-3 text-sm text-[#b2bec3]">
             <time dateTime={post.date}>
               {new Date(post.date).toLocaleDateString('en-US', {
                 year: 'numeric',
@@ -136,19 +154,27 @@ export default async function BlogPostPage({ params }: Props) {
                 day: 'numeric',
               })}
             </time>
+            {post.lastModified && post.lastModified !== post.date && (
+              <>
+                <span>&middot;</span>
+                <span className="text-[#f39c12]">Updated {new Date(post.lastModified).toLocaleDateString('en-US', {
+                  year: 'numeric', month: 'short', day: 'numeric'
+                })}</span>
+              </>
+            )}
             <span>&middot;</span>
-            <span>{post.author}</span>
+            <span className="text-[#2d6a4f] font-medium">{post.author}</span>
             {post.category && (
               <>
                 <span>&middot;</span>
-                <span className="text-primary font-medium">{post.category}</span>
+                <span className="text-[#2d6a4f] font-medium">{post.category}</span>
               </>
             )}
           </div>
           {post.tags.length > 0 && (
             <div className="flex flex-wrap gap-2 mt-4">
               {post.tags.map((tag) => (
-                <span key={tag} className="text-xs px-2 py-1 bg-gray-100 text-gray-600 rounded">
+                <span key={tag} className="breed-tag">
                   {tag}
                 </span>
               ))}
@@ -164,19 +190,37 @@ export default async function BlogPostPage({ params }: Props) {
 
         {/* Affiliate Disclosure */}
         <div className="affiliate-disclosure mt-10">
-          Disclosure: This article contains affiliate links. We independently research and test products. 
-          When you purchase through our links, we may earn a commission at no extra cost to you. 
-          This supports our work and helps us continue providing detailed reviews and comparisons.
+          <strong className="text-[#2d3436]">Affiliate Disclosure:</strong> Furry Finds is reader-supported. When you buy through links on our site, we may earn an affiliate commission at no extra cost to you. We only recommend products we'd use with our own pets.
         </div>
 
-        {/* Last Updated */}
-        {post.lastModified && post.lastModified !== post.date && (
-          <p className="text-xs text-gray-400 mt-6">
-            Last updated: {new Date(post.lastModified).toLocaleDateString('en-US', {
-              year: 'numeric', month: 'long', day: 'numeric'
-            })}
-          </p>
+        {/* Author Bio */}
+        {post.author && post.authorBio && (
+          <div className="author-bio">
+            <div className="avatar">
+              {post.author.split(' ').map(n => n[0]).join('')}
+            </div>
+            <div>
+              <p className="text-[#2d3436] font-semibold">{post.author}</p>
+              <p className="text-[#636e72] text-sm mt-1">{post.authorBio}</p>
+              {post.authorSocial && (
+                <a href={`https://instagram.com/${post.authorSocial.replace('@', '')}`} className="text-[#2d6a4f] text-sm hover:underline mt-2 inline-block">
+                  {post.authorSocial}
+                </a>
+              )}
+            </div>
+          </div>
         )}
+
+        {/* Newsletter CTA */}
+        <div className="newsletter-cta">
+          <h3>🐾 New pet gear reviews every week</h3>
+          <p>From indestructible toys to orthopedic beds — tested by real pets, reviewed by real owners.</p>
+          <form className="flex gap-3" onSubmit={(e) => { e.preventDefault(); alert('Newsletter signup coming soon!'); }}>
+            <input type="email" placeholder="your@email.com" required />
+            <button type="submit">Join the pack</button>
+          </form>
+          <p className="text-xs mt-3">No spam. Unsubscribe anytime.</p>
+        </div>
       </article>
     </>
   )
