@@ -1,9 +1,13 @@
 ---
 title: "Best Pet Accessories of 2026: Essential Gear for Every Pet Parent"
 date: "2026-05-21"
+lastModified: "2026-05-22"
 excerpt: "From orthopedic beds and automatic feeders to interactive toys and travel carriers, we break down the most worthwhile pet accessories of 2026 across every budget and pet type."
 tags: ["pet accessories", "buying guide", "2026", "dogs", "cats", "small pets"]
-author: "Furry Finds Team"
+author: "Ava Morrison"
+authorBio: "Lead reviewer and dog mom to Biscuit, a golden retriever who thinks every toy is a demolition project."
+authorSocial: "@avaandbiscuit"
+coverImage: "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?auto=format&fit=crop&w=1200&q=80"
 metaTitle: "Best Pet Accessories of 2026 | Furry Finds Reviews & Rankings"
 metaDescription: "Discover the best pet accessories of 2026. Our experts compare beds, feeders, toys, grooming tools, and travel gear to help you find the perfect products for your furry family."
 keywords: "best pet accessories 2026, pet accessories buying guide, dog bed recommendations, automatic pet feeder, interactive cat toys, pet travel carrier, pet grooming tools"
