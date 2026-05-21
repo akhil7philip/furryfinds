@@ -10,10 +10,10 @@ export default function HomePage() {
       {/* Hero */}
       <section className="mb-16">
         <h1 className="text-4xl md:text-5xl font-extrabold text-dark tracking-tight mb-4">
-          Expert Reviews & Buying Guides
+          Pet Accessories Reviews & Buying Guides
         </h1>
         <p className="text-lg text-gray-600 max-w-2xl">
-          In-depth comparisons, hands-on testing, and honest recommendations to help you make the best purchasing decisions.
+          Expert reviews, comparisons, and honest recommendations for pet parents. Find the best beds, feeders, toys, and travel gear for your furry family.
         </p>
       </section>
 
