@@ -4,11 +4,16 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: {
-    default: 'Furry Finds - Pet Accessories Reviews & Guides',
+    default: 'Furry Finds - Honest Pet Product Reviews',
     template: '%s | Furry Finds',
   },
-  description: 'Expert reviews, comparisons, and buying guides for pet accessories. Find the best gear for dogs, cats, and small pets at Furry Finds.',
+  description: 'Real pet owners testing real pet products. We test with actual dogs and cats, then tell you what actually holds up.',
   metadataBase: new URL('https://furryfinds.club'),
+  icons: {
+    icon: '/favicon.svg',
+    shortcut: '/favicon.svg',
+    apple: '/favicon.svg',
+  },
   robots: {
     index: true,
     follow: true,
@@ -23,9 +28,11 @@ export const metadata: Metadata = {
     type: 'website',
     siteName: 'Furry Finds',
     locale: 'en_US',
+    images: ['https://furryfinds.club/og-image.jpg'],
   },
   twitter: {
     card: 'summary_large_image',
+    site: '@FurryFindsReviews',
   },
   alternates: {
     types: {
@@ -53,25 +60,31 @@ export default function RootLayout({
           gtag('config', 'G-R7308GTFN0');
         `}
       </Script>
-      <body className="min-h-screen flex flex-col">
-        <header className="border-b border-gray-200 bg-white">
+      <body className="min-h-screen flex flex-col bg-[#fef9f3] text-[#2d3436] antialiased">
+        <header className="border-b border-[#ffe0b2] bg-[#fef9f3]">
           <div className="max-w-4xl mx-auto px-4 py-4 flex items-center justify-between">
-            <a href="/" className="text-xl font-bold text-dark tracking-tight">
+            <a href="/" className="text-xl font-bold text-[#2d6a4f] tracking-tight">
               Furry Finds
             </a>
-            <nav className="flex gap-6 text-sm font-medium text-gray-600">
-              <a href="/" className="hover:text-primary transition-colors">Home</a>
-              <a href="/blog/" className="hover:text-primary transition-colors">All Guides</a>
+            <nav className="flex gap-6 text-sm font-medium text-[#636e72]">
+              <a href="/" className="hover:text-[#2d6a4f] transition-colors">Home</a>
+              <a href="/blog/" className="hover:text-[#2d6a4f] transition-colors">All Reviews</a>
+              <a href="/about/" className="hover:text-[#2d6a4f] transition-colors">About</a>
             </nav>
           </div>
         </header>
         <main className="flex-1">{children}</main>
-        <footer className="border-t border-gray-200 bg-gray-50 mt-16">
-          <div className="max-w-4xl mx-auto px-4 py-8 text-sm text-gray-500">
-            <p className="mb-2">&copy; {new Date().getFullYear()} Furry Finds. All rights reserved.</p>
-            <p className="text-xs">
+        <footer className="border-t border-[#ffe0b2] bg-[#fff5e6] mt-16">
+          <div className="max-w-4xl mx-auto px-4 py-8 text-sm text-[#636e72]">
+            <p className="mb-2">&copy; {new Date().getFullYear()} Furry Finds. Reviews by pet owners, for pet owners.</p>
+            <p className="text-xs mb-4">
               This site contains affiliate links. We may earn a commission when you purchase through our links — at no extra cost to you.
             </p>
+            <div className="flex gap-4 text-xs">
+              <a href="/about/" className="hover:text-[#2d6a4f]">About Us</a>
+              <a href="https://instagram.com/FurryFindsReviews" className="hover:text-[#2d6a4f]">Instagram</a>
+              <span>hello@furryfinds.club</span>
+            </div>
           </div>
         </footer>
       </body>
