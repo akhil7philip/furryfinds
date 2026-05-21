@@ -4,10 +4,10 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: {
-    default: 'Furry Finds - Your Niche Authority',
+    default: 'Furry Finds - Pet Accessories Reviews & Guides',
     template: '%s | Furry Finds',
-  },
-  description: 'Expert reviews, comparisons, and buying guides to help you make informed decisions.',
+  }
+  description: 'Expert reviews, comparisons, and buying guides for pet accessories. Find the best gear for dogs, cats, and small pets at Furry Finds.',
   metadataBase: new URL('https://furryfinds.club'),
   robots: {
     index: true,
