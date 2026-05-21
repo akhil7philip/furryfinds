@@ -1,9 +1,13 @@
 ---
 title: "How to Choose Pet Accessories in 2026: A Complete Buyer's Guide"
 date: "2026-05-21"
+lastModified: "2026-05-22"
 excerpt: "Don't waste money on pet accessories your furry friend will ignore. Learn the 7 critical factors — from sizing and materials to safety certifications and cleaning — that separate worthwhile gear from landfill-bound impulse buys."
 tags: ["pet accessories", "buying guide", "how to choose", "pet safety", "2026"]
-author: "Furry Finds Team"
+author: "Jordan Reyes"
+authorBio: "Cat specialist and multi-pet household manager. Lives with two cats, a dog, and a rotating cast of foster kittens."
+authorSocial: "@jordanpetparent"
+coverImage: "https://images.unsplash.com/photo-1587300003388-59208cc962cb?auto=format&fit=crop&w=1200&q=80"
 metaTitle: "How to Choose Pet Accessories in 2026 | Furry Finds"
 metaDescription: "Learn how to choose the right pet accessories for your dog, cat, or small pet. We break down sizing, materials, safety standards, and budget considerations in plain English."
 keywords: "how to choose pet accessories, pet accessories buying guide, what size dog bed do i need, safe pet toys, non-toxic pet products, pet accessory materials, pet travel safety"
