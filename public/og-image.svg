@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#fef9f3"/>
+  <g transform="translate(60, 60)">
+    <text x="0" y="60" font-family="Nunito, Inter, system-ui, sans-serif" font-size="28" font-weight="800" fill="#2d6a4f">FURRY FINDS</text>
+    <text x="0" y="160" font-family="Nunito, Inter, system-ui, sans-serif" font-size="52" font-weight="800" fill="#2d3436">Best Pet Accessories</text>
+    <text x="0" y="230" font-family="Nunito, Inter, system-ui, sans-serif" font-size="52" font-weight="800" fill="#2d3436">of 2026</text>
+    <text x="0" y="300" font-family="Inter, system-ui, sans-serif" font-size="24" fill="#636e72">Tested by real pets. Reviewed by real owners.</text>
+    <rect x="0" y="340" width="80" height="4" fill="#2d6a4f" rx="2"/>
+    <text x="0" y="400" font-family="Inter, system-ui, sans-serif" font-size="18" fill="#b2bec3">furryfinds.club</text>
+  </g>
+  <g transform="translate(800, 180)">
+    <rect x="0" y="0" width="340" height="260" rx="20" fill="#ffffff" stroke="#ffe0b2" stroke-width="2"/>
+    <circle cx="60" cy="60" r="30" fill="#2d6a4f" opacity="0.15"/>
+    <text x="50" y="70" font-family="Nunito, sans-serif" font-size="28" fill="#2d6a4f">🐾</text>
+    <rect x="20" y="110" width="300" height="50" rx="12" fill="#fff5e6"/>
+    <text x="30" y="140" font-family="Nunito, sans-serif" font-size="16" fill="#2d6a4f">✓ Safety Checked</text>
+    <rect x="20" y="170" width="300" height="50" rx="12" fill="#fff5e6"/>
+    <text x="30" y="200" font-family="Nunito, sans-serif" font-size="16" fill="#2d6a4f">✓ Breed-Specific</text>
+    <rect x="20" y="230" width="300" height="50" rx="12" fill="#fff5e6"/>
+    <text x="30" y="260" font-family="Nunito, sans-serif" font-size="16" fill="#2d6a4f">✓ Durability Tested</text>
+  </g>
+</svg>
