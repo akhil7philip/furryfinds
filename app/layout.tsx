@@ -10,7 +10,10 @@ export const metadata: Metadata = {
   description: 'Real pet owners testing real pet products. We test with actual dogs and cats, then tell you what actually holds up.',
   metadataBase: new URL('https://furryfinds.club'),
   icons: {
-    icon: '/favicon.svg',
+    icon: [
+      { url: '/favicon.svg', type: 'image/svg+xml' },
+      { url: '/favicon.ico', sizes: 'any' },
+    ],
     shortcut: '/favicon.svg',
     apple: '/favicon.svg',
   },
@@ -70,6 +73,7 @@ export default function RootLayout({
               <a href="/" className="hover:text-[#2d6a4f] transition-colors">Home</a>
               <a href="/blog/" className="hover:text-[#2d6a4f] transition-colors">All Reviews</a>
               <a href="/about/" className="hover:text-[#2d6a4f] transition-colors">About</a>
+              <a href="/contact/" className="hover:text-[#2d6a4f] transition-colors">Contact</a>
             </nav>
           </div>
         </header>
@@ -82,8 +86,10 @@ export default function RootLayout({
             </p>
             <div className="flex gap-4 text-xs">
               <a href="/about/" className="hover:text-[#2d6a4f]">About Us</a>
+              <a href="/contact/" className="hover:text-[#2d6a4f]">Contact</a>
+              <a href="/privacy/" className="hover:text-[#2d6a4f]">Privacy</a>
+              <a href="/terms/" className="hover:text-[#2d6a4f]">Terms</a>
               <a href="https://instagram.com/FurryFindsReviews" className="hover:text-[#2d6a4f]">Instagram</a>
-              <span>hello@furryfinds.club</span>
             </div>
           </div>
         </footer>
