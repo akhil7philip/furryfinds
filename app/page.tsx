@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import { getAllPosts, getAllTags } from '@/lib/posts'
+import NewsletterForm from '@/components/NewsletterForm'
 
 export default function HomePage() {
   const posts = getAllPosts()
@@ -67,6 +68,15 @@ export default function HomePage() {
             </article>
           ))}
         </div>
+      </section>
+
+      {/* Newsletter Signup */}
+      <section className="mt-16">
+        <NewsletterForm
+          headline="🐾 New pet gear reviews every week"
+          subtext="From indestructible toys to orthopedic beds — tested by real pets, reviewed by real owners."
+          cta="Join the pack"
+        />
       </section>
     </div>
   )
