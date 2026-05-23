@@ -18,7 +18,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!post) return {}
 
   return {
-    title: post.metaTitle || post.title,
+    title: { absolute: post.metaTitle || post.title },
     description: post.metaDescription || post.excerpt,
     robots: post.noindex ? 'noindex, nofollow' : post.robots,
     alternates: {
