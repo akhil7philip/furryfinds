@@ -11,6 +11,7 @@ export default function LoginPage() {
     const input = form.passcode.value
 
     if (input === 'rion') {
+      localStorage.setItem('site-auth', 'rion')
       document.cookie = 'site-auth=rion; path=/; max-age=31536000; SameSite=Lax'
       window.location.href = '/'
     } else {
