@@ -56,10 +56,10 @@ export default function RootLayout({
           __html: `
             (function() {
               var path = window.location.pathname;
-              if (path !== '/login' && path !== '/login/') {
-                if (localStorage.getItem('site-auth') !== 'rion') {
-                  window.location.href = '/login/';
-                }
+              var isPublic = path === '/login' || path === '/login/' ||
+                path === '/sitemap.xml' || path === '/robots.txt' || path === '/rss.xml';
+              if (!isPublic && localStorage.getItem('site-auth') !== 'rion') {
+                window.location.href = '/login/';
               }
             })();
           `,
