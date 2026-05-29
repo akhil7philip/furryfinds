@@ -51,20 +51,6 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <script
-        dangerouslySetInnerHTML={{
-          __html: `
-            (function() {
-              var path = window.location.pathname;
-              var isPublic = path === '/login' || path === '/login/' ||
-                path === '/sitemap.xml' || path === '/robots.txt' || path === '/rss.xml';
-              if (!isPublic && localStorage.getItem('site-auth') !== 'rion') {
-                window.location.href = '/login/';
-              }
-            })();
-          `,
-        }}
-      />
       <Script
         src="https://www.googletagmanager.com/gtag/js?id=G-R7308GTFN0"
         strategy="afterInteractive"
