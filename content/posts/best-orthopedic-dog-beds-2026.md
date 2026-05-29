@@ -66,6 +66,8 @@ The Big Barker is the **only dog bed we tested with a genuine 10-year warranty a
 
 Owners of large or giant breeds (60+ lbs), senior dogs with arthritis or hip dysplasia, and anyone who wants a bed that genuinely lasts a decade. The cost-per-year over 10 years is $30 — cheaper than replacing a $60 bed every 18 months.
 
+[Check Price on Amazon →](https://www.amazon.com/s?k=Big+Barker+7+Orthopedic+Dog+Bed&tag=gearlab02-21)
+
 ---
 
 ## 🥇 Best Value: PetFusion Ultimate Lounge
@@ -94,6 +96,8 @@ The PetFusion Ultimate is the **best balance of support, durability, and price**
 ### Who should buy it:
 
 Most dog owners. If your dog is under 80 lbs and you want genuine memory foam support without spending $300, this is the sweet spot. Also excellent for dogs who like bolsters.
+
+[Check Price on Amazon →](https://www.amazon.com/s?k=PetFusion+Ultimate+Lounge+Dog+Bed&tag=gearlab02-21)
 
 ---
 
@@ -131,6 +135,8 @@ The BarkBox gel-infused foam ran **1-2°F cooler** than standard memory foam. Th
 
 Owners in warm climates, short-nosed breeds prone to overheating, and medium-sized dogs (20-50 lbs) who run hot. Not recommended for large breeds or dogs needing maximum joint support.
 
+[Check Price on Amazon →](https://www.amazon.com/s?k=BarkBox+Gel+Infused+Memory+Foam+Dog+Bed&tag=gearlab02-21)
+
 ---
 
 ## 💰 Best Budget Pick: Furhaven Plush Orthopedic
@@ -160,6 +166,8 @@ The Furhaven is the **best-selling dog bed on Amazon** with over 200,000 reviews
 
 Budget buyers, small dogs under 30 lbs, and households that want a cozy secondary bed. Treat it as disposable — plan to replace it every 8-12 months.
 
+[Check Price on Amazon →](https://www.amazon.com/s?k=Furhaven+Plush+Orthopedic+Dog+Bed&tag=gearlab02-21)
+
 ---
 
 ## 🛡️ Best for Accident-Prone Dogs: Brindle Waterproof Bed
@@ -187,6 +195,8 @@ The Brindle is the **only fully waterproof bed we tested** where the waterproof 
 ### Who should buy it:
 
 Puppies in housetraining, senior dogs with incontinence, and dogs recovering from surgery who cannot be moved for bedding changes. Treat it as a specialty bed, not a primary orthopedic solution.
+
+[Check Price on Amazon →](https://www.amazon.com/s?k=Brindle+Waterproof+Dog+Bed&tag=gearlab02-21)
 
 ---
 
