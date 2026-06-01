@@ -54,6 +54,8 @@ An orthopedic bed isn't a luxury — it's preventative care. Joint issues are am
 - **CertiPUR-US or similar foam certification** ensuring no toxic off-gassing
 - **Appropriate size** — your pet should be able to stretch fully without hanging off
 
+[Shop Orthopedic Dog Beds on Amazon →](https://www.amazon.com/s?k=orthopedic+memory+foam+dog+bed+CertiPUR-US&tag=gearlab02-21)
+
 ### Skip if:
 - Your pet is a destructive chewer (look for tough canvas or vinyl options instead)
 - You need an outdoor bed (look for elevated cot-style beds)
@@ -75,6 +77,8 @@ Automatic feeders have moved from gimmick to genuinely useful. The best models l
 - **Easy disassembly** for thorough weekly cleaning
 - **Voice recording feature** — surprisingly effective for anxious pets
 
+[Shop Automatic Feeders on Amazon →](https://www.amazon.com/s?k=automatic+pet+feeder+stainless+steel+bowl&tag=gearlab02-21)
+
 ### Skip if:
 - Your pet free-feeds well and maintains healthy weight
 - You have a food-aggressive multi-pet household (supervised feeding is safer)
@@ -94,6 +98,9 @@ Boredom is one of the leading causes of destructive behavior. Puzzle toys engage
 - **Food-safe materials** (BPA-free plastic, natural rubber)
 - **Appropriate durability** — supervise until you know your pet won't destroy and swallow pieces
 - **Easy to clean** — dishwasher-safe is ideal
+
+[Shop Puzzle Toys for Dogs on Amazon →](https://www.amazon.com/s?k=dog+puzzle+toys+interactive+treat+dispensing&tag=gearlab02-21)
+[Shop Puzzle Toys for Cats on Amazon →](https://www.amazon.com/s?k=cat+puzzle+toys+interactive+treat+dispensing&tag=gearlab02-21)
 
 ### Skip if:
 - Your pet shows zero food motivation (try treat-dispensing balls with high-value rewards first)
@@ -116,6 +123,9 @@ An unsecured 10-pound pet in a 30mph crash becomes a 300-pound projectile. Crash
 - **Leak-proof bottom** with absorbent pad for long trips
 - **Internal tether** preventing escape when opened
 
+[Shop Crash-Tested Pet Carriers on Amazon →](https://www.amazon.com/s?k=crash+tested+pet+carrier+CPS+certified&tag=gearlab02-21)
+[Shop Pet Car Harnesses on Amazon →](https://www.amazon.com/s?k=pet+car+harness+CPS+certified&tag=gearlab02-21)
+
 ### Skip if:
 - Your pet only travels to the vet (a basic carrier is fine for annual visits)
 - Your pet has severe travel anxiety (consult your vet before investing in premium travel gear)
@@ -137,6 +147,8 @@ Regular grooming isn't about aesthetics — it prevents matting, reduces sheddin
 - **Safety-stop guards** on nail clippers preventing over-cutting
 - **Self-cleaning feature** on brushes (retractable pins save serious time)
 
+[Shop Pet Grooming Tools on Amazon →](https://www.amazon.com/s?k=pet+grooming+kit+slicker+brush+nail+grinder&tag=gearlab02-21)
+
 ### Skip if:
 - You have a short-haired breed and a good vacuum (a simple rubber curry brush is sufficient)
 - Your pet requires breed-specific cuts (leave poodle cuts and schnauzer patterns to professional groomers)
@@ -152,6 +164,8 @@ If you're building out your pet's setup from scratch, here's a sane order of ope
 3. **Daily enrichment** — toys, scratching posts, or digging boxes matched to your pet's instincts
 4. **Convenience upgrades** — automatic feeders, self-cleaning litter boxes, robot vacuums for pet hair
 5. **Nice-to-haves** — GPS trackers, pet cameras, smart doors, designer accessories
+
+[Shop Pet Accessories on Amazon →](https://www.amazon.com/s?k=pet+accessories+2026&tag=gearlab02-21)
 
 ### The $300 Starter Setup
 

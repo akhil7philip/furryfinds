@@ -175,3 +175,5 @@ Before adding any pet accessory to your cart, run through these questions:
 - [ ] **Budget justified?** — This purchase solves a real problem, not just a perceived one
 
 Buy fewer, better things. Your pet — and your wallet — will thank you.
+
+[Shop Top-Rated Pet Accessories on Amazon →](https://www.amazon.com/s?k=best+rated+pet+accessories+2026&tag=gearlab02-21)
