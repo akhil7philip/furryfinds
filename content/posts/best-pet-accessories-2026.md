@@ -32,6 +32,8 @@ At Furry Finds, we evaluate pet accessories on what actually matters: durability
 |----------|--------------|--------------|---------------------------|
 | **Beds & Bedding** | All pets | $25 – $200 | Washable cover + support level matched to pet's age |
 | **Feeding & Water** | All pets | $15 – $250 | Food-safe materials + appropriate portion size |
+
+> **💧 Hydration matters:** Cats drink up to 70% more from flowing water. See our tested rankings of the [best cat water fountains for 2026](/blog/best-cat-water-fountains-2026/).
 | **Toys & Enrichment** | Dogs, cats, small pets | $5 – $80 | Durability matched to chewer strength + safety |
 | **Grooming Tools** | Dogs, long-haired cats | $10 – $120 | Ergonomic design + coat-type compatibility |
 | **Travel & Safety** | All pets who leave home | $20 – $150 | Crash-tested or airline-approved where relevant |
