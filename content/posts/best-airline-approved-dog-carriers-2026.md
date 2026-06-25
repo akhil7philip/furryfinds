@@ -66,7 +66,7 @@ The Petsfit Expandable is the **most versatile carrier we tested** — and the o
 
 The expanded configuration is **not** allowed during takeoff, landing, or taxi — only during cruise or at the gate. A flight attendant did ask us to zip the sides closed before pushback, so keep that in mind.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Petsfit+Expandable+Pet+Carrier&tag=gearlab02-21)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Petsfit+Expandable+Pet+Carrier&tag=furryfinds-20)
 
 ---
 
@@ -91,7 +91,7 @@ If you treat pet safety the way you treat your own seatbelt, the Sleepypod Air i
 
 At 4 pounds empty, it is the heaviest carrier we tested. For a 15-pound dog, you are pushing the typical 20-pound combined weight limit some airlines enforce. Also, the price is steep — but for frequent flyers, the durability pays for itself.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Sleepypod+Air+Pet+Carrier&tag=gearlab02-21)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Sleepypod+Air+Pet+Carrier&tag=furryfinds-20)
 
 ---
 
@@ -116,7 +116,7 @@ The Henkelion is the **best-selling pet carrier on Amazon** for a reason. It is 
 
 The fleece pad is thin — we added a folded towel for longer flights. The shoulder strap padding is minimal; after 20 minutes of walking through an airport, you feel it. But at under $30, these are fixable compromises.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Henkelion+Cat+Dog+Carrier+Airline+Approved&tag=gearlab02-21)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Henkelion+Cat+Dog+Carrier+Airline+Approved&tag=furryfinds-20)
 
 ---
 
@@ -141,7 +141,7 @@ If your dog treats the carrier like a mobile bedroom, the PetAmi delivers **hote
 
 The top opening is smaller than the Petsfit or Sherpa, making it harder to load a resistant dog. We found front-loading worked better for Luna.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=PetAmi+Premium+Airline+Approved+Pet+Carrier&tag=gearlab02-21)
+[Check Price on Amazon →](https://www.amazon.com/s?k=PetAmi+Premium+Airline+Approved+Pet+Carrier&tag=furryfinds-20)
 
 ---
 
@@ -166,7 +166,7 @@ The Sherpa Original Deluxe is the **gold standard for anxious first-time flyers*
 
 The spring frame adds rigidity, which means it does not compress as easily as the Petsfit or Sleepypod. On a tight Boeing 767 under-seat space (only 16 inches deep), we had to angle it diagonally.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Sherpa+Original+Deluxe+Travel+Pet+Carrier&tag=gearlab02-21)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Sherpa+Original+Deluxe+Travel+Pet+Carrier&tag=furryfinds-20)
 
 ---
 
@@ -191,7 +191,7 @@ Mr. Peanut's Gold Series is built for one purpose: **fitting under the seat of l
 
 The vegan leatherette looks great but scratches if your dog is a digger. After two flights, the bottom corners showed wear from Luna's pre-takeoff anxiety scratching.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Mr+Peaunts+Gold+Series+Pet+Carrier&tag=gearlab02-21)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Mr+Peanuts+Gold+Series+Pet+Carrier&tag=furryfinds-20)
 
 ---
 
@@ -216,7 +216,7 @@ EliteField offers something almost no pet carrier brand does: a **3-year warrant
 
 The 13-inch height is borderline for some airlines. We fit it under a United 737 seat but had to remove the fleece bed to compress it for a Delta regional jet.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=EliteField+Soft+Sided+Pet+Carrier&tag=gearlab02-21)
+[Check Price on Amazon →](https://www.amazon.com/s?k=EliteField+Soft+Sided+Pet+Carrier&tag=furryfinds-20)
 
 ---
 
@@ -241,7 +241,7 @@ The Amazon Basics carrier is the **default choice** for a reason: it works, it i
 
 The 19.7-inch length is **too long for some regional jets.** We could not fit it under an Embraer E175 seat at all. Stick to mainline aircraft (737, A320, 757) or be prepared to gate-check. Also, the zippers are basic — Luna opened the front zipper in 90 seconds.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Amazon+Basics+Soft+Sided+Pet+Travel+Carrier&tag=gearlab02-21)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Amazon+Basics+Soft+Sided+Pet+Travel+Carrier&tag=furryfinds-20)
 
 ---
 
