@@ -21,6 +21,8 @@ category: "Buying Guides"
 Walk into any pet store or browse Amazon's pet category and you'll find thousands of products promising to make your pet happier, healthier, and better behaved. Most of them won't. The pet accessories industry is notorious for selling convenience to humans rather than value to pets — cute designs that fall apart in weeks, "calming" products with zero clinical backing, and sizing systems that seem designed to guarantee returns.
 
 > **💧 Special note on hydration:** Running water fountains can increase cat water intake by up to 70%. See our tested guide to the [best cat water fountains for 2026](/blog/best-cat-water-fountains-2026/).
+>
+> **✈️ Traveling with pets?** Not all "airline approved" carriers fit under seats. See our [best airline-approved dog travel carriers for 2026](/blog/best-airline-approved-dog-carriers-2026/) — tested on real flights.
 
 This guide cuts through the marketing. Whether you're furnishing your first apartment with a new puppy or upgrading your senior cat's aging setup, these are the decision frameworks that actually matter.
 

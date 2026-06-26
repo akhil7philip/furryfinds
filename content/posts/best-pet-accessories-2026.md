@@ -34,6 +34,8 @@ At Furry Finds, we evaluate pet accessories on what actually matters: durability
 | **Feeding & Water** | All pets | $15 – $250 | Food-safe materials + appropriate portion size |
 
 > **💧 Hydration matters:** Cats drink up to 70% more from flowing water. See our tested rankings of the [best cat water fountains for 2026](/blog/best-cat-water-fountains-2026/).
+>
+> **✈️ Flying with your pet?** Our [airline-approved dog travel carrier guide](/blog/best-airline-approved-dog-carriers-2026/) covers 8 tested carriers that actually fit under airplane seats.
 | **Toys & Enrichment** | Dogs, cats, small pets | $5 – $80 | Durability matched to chewer strength + safety |
 | **Grooming Tools** | Dogs, long-haired cats | $10 – $120 | Ergonomic design + coat-type compatibility |
 | **Travel & Safety** | All pets who leave home | $20 – $150 | Crash-tested or airline-approved where relevant |
