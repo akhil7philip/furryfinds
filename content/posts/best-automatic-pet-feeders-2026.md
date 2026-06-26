@@ -70,7 +70,7 @@ The Granary is the **most reliable automatic feeder we tested** — zero jams ac
 
 Pet owners who want reliability above all else. If you travel for work, work long hours, or just want to stop the 6 AM wake-up call from a hungry cat, this is the feeder that will not let you down.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=PETLIBRO+Granary+Automatic+Pet+Feeder&tag=gearlab02-21)
+[Check Price on Amazon →](https://www.amazon.com/s?k=PETLIBRO+Granary+Automatic+Pet+Feeder&tag=furryfinds-20)
 
 ---
 
@@ -102,7 +102,7 @@ The CatLINK is the **most cat-friendly feeder we tested** — quiet enough that 
 
 Cat owners who prioritize precision and quiet operation. Especially good for anxious cats, cats on weight-management diets, and multi-cat households where one cat needs a different portion size.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=CatLINK+Smart+Feeder&tag=gearlab02-21)
+[Check Price on Amazon →](https://www.amazon.com/s?k=CatLINK+Smart+Feeder&tag=furryfinds-20)
 
 ---
 
@@ -134,7 +134,7 @@ The WOPET 7L is the **only feeder we tested that can handle large dogs without c
 
 Owners of large dogs (50+ pounds) who need capacity and kibble size compatibility. Good for people who travel for 3–5 days and want their dog fed without asking a neighbor to refill.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=WOPET+7L+Automatic+Pet+Feeder&tag=gearlab02-21)
+[Check Price on Amazon →](https://www.amazon.com/s?k=WOPET+7L+Automatic+Pet+Feeder&tag=furryfinds-20)
 
 ---
 
@@ -166,7 +166,7 @@ The PETLIBRO Space is a **feeder + pet camera hybrid** — and the camera is goo
 
 Tech-forward owners who want a feeder and camera in one device. Best for monitoring pets with medical conditions, tracking eating habits, or checking in while traveling.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=PETLIBRO+Space+Camera+Feeder&tag=gearlab02-21)
+[Check Price on Amazon →](https://www.amazon.com/s?k=PETLIBRO+Space+Camera+Feeder&tag=furryfinds-20)
 
 ---
 
@@ -198,7 +198,7 @@ The SureFeed is **not a traditional automatic feeder** — it does not dispense 
 
 Multi-pet households with food theft, pets on different diets (prescription food vs. regular), or owners who want to free-feed fresh food without leaving it exposed.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=SureFeed+Microchip+Pet+Feeder&tag=gearlab02-21)
+[Check Price on Amazon →](https://www.amazon.com/s?k=SureFeed+Microchip+Pet+Feeder&tag=furryfinds-20)
 
 ---
 
@@ -229,7 +229,7 @@ The Catit Pixi is the **only automatic feeder we tested that handles wet food re
 
 Cat owners who feed wet food (or a mix of wet and dry) and want automated scheduling. Not suitable for dogs or large portions.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Catit+Pixi+Smart+Feeder&tag=gearlab02-21)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Catit+Pixi+Smart+Feeder&tag=furryfinds-20)
 
 ---
 
@@ -261,7 +261,7 @@ The Amazon Basics feeder is the **best value we tested** — but with important 
 
 Budget buyers who want to try automatic feeding, owners of healthy pets who do not need precise portions, and households with reliable backup plans (a neighbor who can check if the feeder jams).
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Amazon+Basics+Automatic+Pet+Feeder&tag=gearlab02-21)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Amazon+Basics+Automatic+Pet+Feeder&tag=furryfinds-20)
 
 ---
 
@@ -292,7 +292,7 @@ The PETLIBRO Air is the **best travel feeder we tested** — it runs entirely on
 
 Travelers, RV owners, campers, and anyone who needs a feeder where outlets are not available. Also a good backup feeder for power-outage-prone areas.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=PETLIBRO+Air+Automatic+Pet+Feeder&tag=gearlab02-21)
+[Check Price on Amazon →](https://www.amazon.com/s?k=PETLIBRO+Air+Automatic+Pet+Feeder&tag=furryfinds-20)
 
 ---
 

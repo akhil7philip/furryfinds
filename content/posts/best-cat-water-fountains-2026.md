@@ -78,7 +78,7 @@ The PETLIBRO Dockstream is the **most complete cat water fountain we tested** �
 
 Cat owners who want the best combination of reliability, smart features, and cat preference. If you travel for work, the water level alerts alone justify the price. If you have a picky or anxious cat, the dual flow modes and quiet pump are the difference between drinking and ignoring.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=PETLIBRO+Dockstream+Cat+Water+Fountain&tag=gearlab02-21)
+[Check Price on Amazon →](https://www.amazon.com/s?k=PETLIBRO+Dockstream+Cat+Water+Fountain&tag=furryfinds-20)
 
 ---
 
@@ -113,7 +113,7 @@ The PETKIT Eversweet 3 is the **most technologically advanced fountain we tested
 
 Tech-forward owners who want the smartest fountain available. Best for single-cat households or owners who prioritize hygiene and are willing to pay for stainless steel + UV features.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=PETKIT+Eversweet+3+Cat+Water+Fountain&tag=gearlab02-21)
+[Check Price on Amazon →](https://www.amazon.com/s?k=PETKIT+Eversweet+3+Cat+Water+Fountain&tag=furryfinds-20)
 
 ---
 
@@ -148,7 +148,7 @@ The Veken is the **best value cat fountain we tested** — large capacity, quiet
 
 Budget buyers who want a reliable, large-capacity fountain without smart features. Ideal for multi-cat households on a budget or anyone who wants to try a fountain without a $50+ investment.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Veken+Pet+Fountain+95oz&tag=gearlab02-21)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Veken+Pet+Fountain+95oz&tag=furryfinds-20)
 
 ---
 
@@ -182,7 +182,7 @@ The ORSDA is the **quietest fountain we tested** and the best stainless steel op
 
 Owners of noise-sensitive or anxious cats. Anyone who prefers stainless steel for hygiene. Work-from-home professionals who need a fountain that does not contribute to background noise.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=ORSDA+Stainless+Steel+Cat+Water+Fountain&tag=gearlab02-21)
+[Check Price on Amazon →](https://www.amazon.com/s?k=ORSDA+Stainless+Steel+Cat+Water+Fountain&tag=furryfinds-20)
 
 ---
 
@@ -216,7 +216,7 @@ The Catit Flower Fountain is the **best-known cat fountain on the market** — a
 
 Multi-cat households who need capacity and multiple drinking zones. Owners of senior cats who benefit from elevated bowls. Anyone who wants a proven, widely available fountain with easy-to-find replacement filters.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Catit+Flower+Fountain&tag=gearlab02-21)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Catit+Flower+Fountain&tag=furryfinds-20)
 
 ---
 
@@ -250,7 +250,7 @@ The Pioneer Pet Raindrop is the **most aesthetically pleasing fountain we tested
 
 Design-focused owners who want a fountain that complements their home decor. Single-cat households where capacity is not a concern. Anyone who prioritizes aesthetics and quiet operation over smart features.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Pioneer+Pet+Raindrop+Stainless+Steel+Fountain&tag=gearlab02-21)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Pioneer+Pet+Raindrop+Stainless+Steel+Fountain&tag=furryfinds-20)
 
 ---
 
@@ -284,7 +284,7 @@ The Wonder Creature Aurora is the **best fountain for small apartments and tight
 
 Apartment dwellers with limited space. Owners who need a bedroom-friendly fountain. Budget buyers who want quiet operation without spending $40+.
 
-[Check Price on Amazon →](https://www.amazon.com/s?k=Wonder+Creature+Aurora+Cat+Fountain&tag=gearlab02-21)
+[Check Price on Amazon →](https://www.amazon.com/s?k=Wonder+Creature+Aurora+Cat+Fountain&tag=furryfinds-20)
 
 ---
 
