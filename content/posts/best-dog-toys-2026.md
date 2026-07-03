@@ -425,6 +425,8 @@ Multi-dog households and owners who play tug-of-war regularly. Best for medium t
 | Senior dog, gentle chewer | KONG Puppy (softer rubber) or Nylabone Power Chew | Gentle on aging teeth |
 | Puppy, teething | KONG Puppy (frozen) or Nylabone Teething Ring | Soothing + safe for baby teeth |
 
+> **Have a senior dog with joint issues?** Our [Best Orthopedic Dog Beds guide](/blog/best-orthopedic-dog-beds-2026/) covers vet-recommended beds for arthritis, hip dysplasia, and aging joints.
+
 ---
 
 ## Safety Rules Every Dog Owner Should Follow
