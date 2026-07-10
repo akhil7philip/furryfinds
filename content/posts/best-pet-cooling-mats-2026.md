@@ -32,6 +32,8 @@ We measured **surface temperature** (infrared thermometer, every 2 hours from 10
 
 Here is what actually cooled our pets — and what was just marketing.
 
+> **Keeping your pet active in summer?** Check our [Best Dog Toys 2026](/blog/best-dog-toys-2026/) guide — 10 toys tested for durability and enrichment, perfect for indoor play when it's too hot to go out.
+>
 > **Affiliate Disclosure:** Furry Finds is reader-supported. When you buy through links on our site, we may earn an affiliate commission at no extra cost to you. We only recommend products our own testers would use.
 
 ---
