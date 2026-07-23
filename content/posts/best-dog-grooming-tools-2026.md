@@ -71,7 +71,7 @@ The FURminator is the **most effective deshedding tool on the market** — and t
 - **Skin guard prevents brush burn.** The curved edge has a built-in guard that pushes skin away from the blade. We tested this by pressing the FURminator flat against a balloon — the guard contacted the surface before the blade, preventing puncture. On Koda's skin, this meant zero irritation even with firm pressure. Other deshedding tools (we tested the Andis and a generic Amazon clone) left red marks after aggressive use.
 - **Eject button is genuinely useful.** The FUR release button pushes the collected hair off the blade in one click. Without it, you stop every 30 seconds to pull hair out with your fingers. With it, Koda's full groom took 18 minutes instead of 35.
 - **Different blades for coat length matter.** The Long Hair blade (yellow) has longer teeth that reach through Koda's outer coat to the undercoat. The Short Hair blade (blue) worked better on Bruno's pit mix coat — the shorter teeth grabbed his fine, short hairs without scratching skin. Using the wrong blade reduces effectiveness by roughly 40%.
-- **Lifetime warranty is real.** We contacted FURmindator's warranty service with a hypothetical question about blade dulling. They replied in 4 hours with replacement instructions — no receipt required, just a photo of the tool.
+- **Lifetime warranty is real.** We contacted FURminator's warranty service with a hypothetical question about blade dulling. They replied in 4 hours with replacement instructions — no receipt required, just a photo of the tool.
 
 ### Drawbacks:
 
@@ -84,7 +84,7 @@ The FURminator is the **most effective deshedding tool on the market** — and t
 
 Owners of heavy-shedding breeds: huskies, malamutes, German shepherds, golden retrievers, Labs, corgis, Akitas, and any double-coated breed. If you find tumbleweeds of fur in your house, this is the tool that changes everything.
 
-**Pro tip:** Brush outdoors or in a garage. The FURminator releases a shocking amount of hair. We gagged Koda on our patio and swept the aftermath with a leaf blower.
+**Pro tip:** Brush outdoors or in a garage. The FURminator releases a shocking amount of hair. We groomed Koda on our patio and swept the aftermath with a leaf blower.
 
 [Check Price on Amazon →](https://www.amazon.com/s?k=FURminator+Undercoat+Deshedding+Tool&tag=furryfinds-20)
 
