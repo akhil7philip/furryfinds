@@ -20,6 +20,8 @@ The orthopedic dog bed market exploded in 2025-2026. Dozens of brands now claim 
 We bought eight beds across price tiers, tested them with three dogs (Biscuit, our 78-lb golden retriever; Milo, a 12-year-old beagle with hip dysplasia; and Luna, a 45-lb border collie mix), and measured foam density, cover durability, washability, and real-world joint support. Here is what actually matters — and which beds are worth your money.
 
 > **Affiliate Disclosure:** Furry Finds is reader-supported. When you buy through links on our site, we may earn an affiliate commission at no extra cost to you. We only recommend products we'd use with our own pets.
+>
+> **Complete your dog's setup:** See our [Best Dog Grooming Tools 2026](/blog/best-dog-grooming-tools-2026/) — 8 pro-grade tools tested with real dogs to keep coats healthy between vet visits.
 
 ---
 

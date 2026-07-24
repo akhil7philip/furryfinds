@@ -33,6 +33,8 @@ Here is what survived, what broke, and what actually made our dogs better.
 
 > **Summer heat stressing your pet?** See our [Best Pet Cooling Mats 2026](/blog/best-pet-cooling-mats-2026/) guide — 8 mats tested with real temperature data to keep dogs and cats safe in heat.
 >
+> **Grooming matters too:** A well-groomed dog is a happier, healthier dog. See our [Best Dog Grooming Tools 2026](/blog/best-dog-grooming-tools-2026/) — 8 pro-grade tools tested with real dogs.
+>
 > **Affiliate Disclosure:** Furry Finds is reader-supported. When you buy through links on our site, we may earn an affiliate commission at no extra cost to you. We only recommend products our own testers would use.
 
 ---

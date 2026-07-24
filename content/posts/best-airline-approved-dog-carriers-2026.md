@@ -24,6 +24,8 @@ We bought eight of the most popular airline-approved dog carriers and put them t
 Here is what actually works at 35,000 feet — and which carriers will get you stopped at the gate.
 
 > **Affiliate Disclosure:** Furry Finds is reader-supported. When you buy through links on our site, we may earn an affiliate commission at no extra cost to you. We only recommend products our own testers would use.
+>
+> **Pre-flight grooming tip:** A well-groomed dog travels calmer. See our [Best Dog Grooming Tools 2026](/blog/best-dog-grooming-tools-2026/) — tested with anxious dogs to make grooming stress-free.
 
 ---
 
