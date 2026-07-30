@@ -23,6 +23,8 @@ Walk into any pet store or browse Amazon's pet category and you'll find thousand
 > **💧 Special note on hydration:** Running water fountains can increase cat water intake by up to 70%. See our tested guide to the [best cat water fountains for 2026](/blog/best-cat-water-fountains-2026/).
 >
 > **✈️ Traveling with pets?** Not all "airline approved" carriers fit under seats. See our [best airline-approved dog travel carriers for 2026](/blog/best-airline-approved-dog-carriers-2026/) — tested on real flights.
+>
+> **🐕 Home grooming saves money:** Professional grooming runs $60–120 per visit. Our [Best Dog Grooming Tools 2026](/blog/best-dog-grooming-tools-2026/) guide covers 8 pro-grade tools tested with real dogs — so you can stretch pro visits from 4 weeks to 8–10.
 
 This guide cuts through the marketing. Whether you're furnishing your first apartment with a new puppy or upgrading your senior cat's aging setup, these are the decision frameworks that actually matter.
 
