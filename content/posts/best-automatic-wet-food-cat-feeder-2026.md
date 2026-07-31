@@ -354,7 +354,7 @@ A: **Most cats prefer room temperature.** Cold food loses aroma and texture appe
 A: **Yes.** All tray-based feeders in this guide work with crushed pills mixed into wet food. The SureFeed is excellent for cats on timed medication who need free access. The C500 and PetSafe Eatwell are ideal for scheduled medication dosing.
 
 **Q: What about automatic feeders for 2 cats?**  
-A: For **separate portions**, you need two feeders. The SureFeed prevents food theft but does not dispense portions. For **shared wet food**, the C500 or Polar works if both cats eat the same diet and portions. See our dedicated guide: [automatic cat feeder for 2 cats](/blog/automatic-cat-feeder-for-2-cats-2026/) (coming soon).
+A: For **separate portions**, you need two feeders. The SureFeed prevents food theft but does not dispense portions. For **shared wet food**, the C500 or Polar works if both cats eat the same diet and portions.
 
 **Q: How do I clean a wet food feeder?**  
 A: **Daily:** Remove and wash the tray/bowl with hot soapy water. **Weekly:** Disinfect with a vinegar solution (1:1 water and white vinegar). **Monthly:** Deep clean the lid mechanism and check for mold in crevices. Wet food residue is a bacteria factory — clean religiously.
