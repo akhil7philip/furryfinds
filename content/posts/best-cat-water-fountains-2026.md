@@ -26,6 +26,8 @@ But not all fountains deliver. We bought ten top-rated cat water fountains and r
 Here is what works, what breaks, and which fountain deserves a spot in your home.
 
 > **Affiliate Disclosure:** Furry Finds is reader-supported. When you buy through links on our site, we may earn an affiliate commission at no extra cost to you. We only recommend products our own testers would use.
+>
+> **🐱 Complete your cat care setup:** See our [Best Automatic Cat Litter Box 2026](/blog/best-automatic-cat-litter-box-2026/) — 7 self-cleaning units tested & compared. From the $699 Litter-Robot 4 to the $282 PETKIT PuraMax 2.
 
 ---
 

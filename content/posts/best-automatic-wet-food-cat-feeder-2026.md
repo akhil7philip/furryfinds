@@ -33,6 +33,8 @@ Here is what keeps wet food safe — and which feeders your cat will actually us
 
 > **Already have a dry food feeder?** See our [Best Automatic Pet Feeders 2026](/blog/best-automatic-pet-feeders-2026/) guide for the top dry food hoppers, smart feeders with cameras, and large-capacity options for dogs.
 >
+> **Tired of scooping litter?** See our [Best Automatic Cat Litter Box 2026](/blog/best-automatic-cat-litter-box-2026/) guide — 7 self-cleaning units tested with 4 real cats over 60 days, from the $699 Litter-Robot 4 to the $282 PETKIT PuraMax 2.
+>
 > **Affiliate Disclosure:** Furry Finds is reader-supported. When you buy through links on our site, we may earn an affiliate commission at no extra cost to you. We only recommend products our own testers would use.
 
 ---
