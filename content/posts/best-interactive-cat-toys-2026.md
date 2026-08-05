@@ -21,7 +21,9 @@ But not every toy labeled "interactive" actually interacts. We bought eight top-
 
 > **Affiliate Disclosure:** Furry Finds is reader-supported. When you buy through links on our site, we may earn an affiliate commission at no extra cost to you. We only recommend products our own testers would use.
 >
-> **Tired of scooping litter manually?** See our [Best Automatic Cat Litter Box 2026](/blog/best-automatic-cat-litter-box-2026/) — 7 self-cleaning units tested with 4 real cats over 60 days. Litter-Robot 4 (9.5/10), PETKIT PuraMax 2 (9.2/10), and budget picks ranked.
+> **Tired of scooping litter manually?** See our [Best Automatic Cat Litter Box 2026](/blog/best-automatic-cat-litter-box-2026/) — 7 self-cleaning units tested with 4 real cats over 60 days.
+>
+> **🪟 Your cat's throne awaits.** Give them a window view with our [Best Cat Window Perch 2026](/blog/best-cat-window-perch-2026/) — 8 tested perches for sunbathing, birdwatching, and happy naps. Litter-Robot 4 (9.5/10), PETKIT PuraMax 2 (9.2/10), and budget picks ranked.
 
 ---
 

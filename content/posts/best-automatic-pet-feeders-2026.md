@@ -25,7 +25,9 @@ We bought eight top-selling automatic feeders and ran them through a 10-day stre
 >
 > **🐱 Feeding wet food?** This guide covers dry kibble feeders. Wet food spoils in 2 hours at room temperature and needs active cooling. See our dedicated [Best Automatic Wet Food Cat Feeders 2026](/blog/best-automatic-wet-food-cat-feeder-2026/) guide — 7 tested models with temperature data.
 >
-> **🐱 Tired of scooping litter?** See our [Best Automatic Cat Litter Box 2026](/blog/best-automatic-cat-litter-box-2026/) — 7 self-cleaning units tested with real cats for 60 days. Litter-Robot 4, PETKIT PuraMax 2, and budget picks ranked.
+> **🐱 Tired of scooping litter?** See our [Best Automatic Cat Litter Box 2026](/blog/best-automatic-cat-litter-box-2026/) — 7 self-cleaning units tested with real cats for 60 days.
+>
+> **🪟 Cat entertainment upgrade.** After feeding, give them a view with our [Best Cat Window Perch 2026](/blog/best-cat-window-perch-2026/) — 8 tested perches with suction cup reliability data. Litter-Robot 4, PETKIT PuraMax 2, and budget picks ranked.
 
 ---
 
