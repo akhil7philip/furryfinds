@@ -34,6 +34,8 @@ Here is what 2,160 combined cat-days of testing revealed — and where each unit
 
 > **Already have a feeder?** See our [Best Automatic Pet Feeders 2026](/blog/best-automatic-pet-feeders-2026/) guide for dry food, wet food, and camera-equipped options.
 >
+> **🪟 Want to give your cat a view?** Check our [Best Cat Window Perch 2026](/blog/best-cat-window-perch-2026/) — 8 perches tested for 90 days with suction cup reliability data, from $23.99 budget picks to large-cat rated frames.
+>
 > **Affiliate Disclosure:** Furry Finds is reader-supported. When you buy through links on our site, we may earn an affiliate commission at no extra cost to you. We only recommend products our own testers would use.
 
 ---
